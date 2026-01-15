@@ -1,2 +1,2 @@
 # slotEXporter
-Synthesis patcher for Nifslotsniper. Writes armo, arma, slotnumber from esp.
+Synthesis patcher for Nifslotsniper. export armo, arma, slotnumber from esp.
